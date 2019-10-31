@@ -66,7 +66,7 @@ class OnlineTest extends JFrame implements ActionListener
             current++;  
             set();    
             if(current==9)  
-                b2.setText("Result");  
+                b2.setText("Resulta are");  
             setVisible(false);  
             setVisible(true);  
         }  
